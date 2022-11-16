@@ -8,7 +8,11 @@ module.exports = {
         lg: "3rem",
       },
     },
-    extend: {},
+    extend: {
+      colors: {
+        linkB: "#232323",
+      },
+    },
   },
   plugins: [],
 };
